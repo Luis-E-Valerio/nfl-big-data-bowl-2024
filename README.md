@@ -5,3 +5,5 @@ Submission for the upcoming 2025 [Big Data Bowl Competition](https://operations.
 Data from [Big Data Bowl Repo](https://github.com/nfl-football-ops/Big-Data-Bowl) containing:
 * Player, Play, and Game data
 * Player tracking data from 2017 Patriots-Chiefs game
+
+See their [schema.md](https://github.com/nfl-football-ops/Big-Data-Bowl/blob/master/schema.md) for a summary of the data.
